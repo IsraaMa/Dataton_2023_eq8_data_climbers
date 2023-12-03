@@ -8,8 +8,10 @@ El reto a resolver para este certamen es desarrollar soluciones innovadoras que 
 - Colusión
 
 # Proyecto propuesto
-Este proyecto se basa en el **Sistema 1: Sistema de evolución patrimonial, de declaración de intereses y
+Este proyecto se basa en:
+- **Sistema 1: Sistema de evolución patrimonial, de declaración de intereses y
 constancia de presentación de declaración fiscal**.
+
 El desafío en cuestión gira en torno a identificar anomalías en los registros salariales dentro de un contexto gubernamental, centrándose en dos componentes clave: el departamento (areaAdscripcion) y el título del trabajo (funcionPrincipal). La relevancia de este problema radica en la detección potencial de salarios anómalos, lo que podría indicar una entrada de datos fraudulenta o errónea. Las anomalías en los registros salariales pueden tener implicaciones severas, incluida la mala gestión financiera o incluso la corrupción dentro de las instituciones gubernamentales. La gravedad de tales problemas exige una solución sólida para la detección temprana y la intervención.
 
 # Resultados
